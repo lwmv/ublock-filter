@@ -26,3 +26,7 @@ m.thepaper.cn##div.tu-list2
 
 ! 闲鱼
 2.taobao.com##div.mau-guide
+
+! slashdot.org
+m.slashdot.org##.close-ad
+m.slashdot.org###story_slot1
