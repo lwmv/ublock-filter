@@ -1,0 +1,28 @@
+! douban app 推广
+douban.com##div.top-nav-doubanapp
+
+! douban 一拍一
+douban.com##div#side-ypy
+
+! 阮一峰博客
+www.ruanyifeng.com###gd1
+www.ruanyifeng.com###sup-post-2
+
+! 观察者网
+m.guancha.cn###toutiao_container
+
+! 澎湃新闻
+m.thepaper.cn###news_app_down02
+m.thepaper.cn##div.zt-head
+m.thepaper.cn##div.tu-list2
+
+! 多说系统
+###ds-notify
+
+! 人人网
+3g.renren.com##div.fubiao-dialog
+3g.renren.com##div#baiduAd-moveCard
+3g.renren.com##div#BanAd
+
+! 闲鱼
+2.taobao.com##div.mau-guide
