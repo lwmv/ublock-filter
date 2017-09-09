@@ -16,6 +16,7 @@ m.guancha.cn##section.latestNews
 m.thepaper.cn###news_app_down02
 m.thepaper.cn##div.zt-head
 m.thepaper.cn##div.tu-list2
+m.thepaper.cn##div.news_open_app
 
 ! 多说系统
 ###ds-notify
