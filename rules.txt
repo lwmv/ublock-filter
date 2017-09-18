@@ -18,6 +18,7 @@ m.thepaper.cn##div.zt-head
 m.thepaper.cn##div.tu-list2
 m.thepaper.cn##div.news_open_app
 m.thepaper.cn##div.burger-abox
+m.thepaper.cn##div#news_panel + div.news_panel
 
 
 ! 多说系统
