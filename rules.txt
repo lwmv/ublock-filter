@@ -17,7 +17,7 @@ m.thepaper.cn###news_app_down02
 m.thepaper.cn##div.zt-head
 m.thepaper.cn##div.tu-list2
 m.thepaper.cn##div.news_open_app
-||app.thepaper.cn^
+m.thepaper.cn##div.burger-abox
 
 
 ! 多说系统
