@@ -38,3 +38,4 @@ m.slashdot.org###story_slot1
 ! some annoying sites
 ||moblink.mob.com^
 ||cnzz.com^
+||yun.tuia.cn^
