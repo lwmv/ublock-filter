@@ -35,3 +35,7 @@ m.thepaper.cn##div#news_panel + div.news_panel
 ! slashdot.org
 m.slashdot.org##.close-ad
 m.slashdot.org###story_slot1
+
+! some annoying sites
+||moblink.mob.com^
+||cnzz.com^
