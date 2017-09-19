@@ -1,2 +1,2 @@
 # ublock-filter
-Some ublock origin filter fules for my own personal use.
+Some ublock origin filter rules for my own personal use.
