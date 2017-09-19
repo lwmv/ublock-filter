@@ -19,7 +19,7 @@ m.thepaper.cn##div.tu-list2
 m.thepaper.cn##div.news_open_app
 m.thepaper.cn##div.burger-abox
 m.thepaper.cn##div#news_panel + div.news_panel
-
+||moblink.mob.com^
 
 ! 多说系统
 ###ds-notify
