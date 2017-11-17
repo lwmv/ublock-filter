@@ -27,6 +27,8 @@ m.thepaper.cn##div#news_panel + div.news_panel
 3g.renren.com##div.fubiao-dialog
 3g.renren.com##div#baiduAd-moveCard
 3g.renren.com##div#BanAd
+3g.renren.com##div#ficon_dialog_id
+
 
 ! 闲鱼
 2.taobao.com##div.mau-guide
