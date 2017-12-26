@@ -1,7 +1,5 @@
-! douban app 推广
+! 豆瓣
 douban.com##div.top-nav-doubanapp
-
-! douban 一拍一
 douban.com##div#side-ypy
 
 ! 阮一峰博客
@@ -19,7 +17,7 @@ m.thepaper.cn##div.tu-list2
 m.thepaper.cn##div.news_open_app
 m.thepaper.cn##div.burger-abox
 m.thepaper.cn##div#news_panel + div.news_panel
-www.therpaper.cn##div.main_ltad
+www.thepaper.cn##div.main_ltad
 
 ! 多说系统
 ###ds-notify
