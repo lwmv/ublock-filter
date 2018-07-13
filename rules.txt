@@ -46,3 +46,11 @@ m.slashdot.org###story_slot1
 
 ! ftchinese.com
 www.ftchinese.com##div.subscription-promo-container
+
+! baidu.com
+m.baidu.com##div.blank-frame
+m.baidu.com##div.first-card-container
+m.baidu.com##div.baiduappcall-wrap
+www.baidu.com##div.blank-frame
+www.baidu.com##div.first-card-container
+www.baidu.com##div.baiduappcall-wrap
