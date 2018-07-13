@@ -19,6 +19,8 @@ m.thepaper.cn##div.burger-abox
 m.thepaper.cn##div#news_panel + div.news_panel
 www.thepaper.cn##div.main_ltad
 m.thepaper.cn##div#container
+m.thepaper.cn##div#wenda
+
 
 ! 多说系统
 ###ds-notify
