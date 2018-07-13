@@ -54,3 +54,6 @@ m.baidu.com##div.baiduappcall-wrap
 www.baidu.com##div.blank-frame
 www.baidu.com##div.first-card-container
 www.baidu.com##div.baiduappcall-wrap
+
+
+www.pdawiki.com##div#append_parent
