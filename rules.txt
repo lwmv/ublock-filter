@@ -43,3 +43,6 @@ m.slashdot.org###story_slot1
 ||moblink.mob.com^
 ||cnzz.com^
 ||yun.tuia.cn^
+
+! ftchinese.com
+www.ftchinese.com##div.subscription-promo-container
