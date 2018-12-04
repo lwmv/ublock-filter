@@ -9,6 +9,8 @@ www.ruanyifeng.com###sup-post-2
 ! 观察者网
 m.guancha.cn###toutiao_container
 m.guancha.cn##section.latestNews
+m.guancha.cn##span.content_appstore
+m.guancha.cn##div.downloadBtn-box
 
 ! 澎湃新闻
 m.thepaper.cn###news_app_down02
