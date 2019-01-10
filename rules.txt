@@ -1,6 +1,8 @@
 ! 豆瓣
 douban.com##div.top-nav-doubanapp
 douban.com##div#side-ypy
+m.douban.com##section.promo_top_banner
+m.douban.com##div.download-app
 
 ! 阮一峰博客
 www.ruanyifeng.com###gd1
