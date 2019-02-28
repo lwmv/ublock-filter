@@ -4,7 +4,8 @@ douban.com##div#side-ypy
 m.douban.com##section.promo_top_banner
 m.douban.com##div.download-app
 m.douban.com##a#topnav-openapp
-
+m.douban.com##ul.quick-nav > li:last-of-type
+m.douban.com##a.toApp
 
 ! 阮一峰博客
 www.ruanyifeng.com###gd1
