@@ -6,7 +6,7 @@ m.douban.com##div.download-app
 m.douban.com##a#topnav-openapp
 m.douban.com##ul.quick-nav > li:last-of-type
 m.douban.com##a.toApp
-m.douban.com##div#TalionNav
+m.douban.com##div.TalionNav-static a
 m.douban.com##div.oia-wrap
 m.douban.com##div.read-all
 m.douban.com##a.splash-btn
